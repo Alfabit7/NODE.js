@@ -1,13 +1,15 @@
 {
   "name": "generate_phone",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Функция генерации Российских номеров телефонов",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Andrey",
-  "license": "ISC",
-  "homepage": " https://github.com/Alfabit7/NODE.js/pull/new/hw_2"
+  "author": {
+    "name": "Andrey",
+    "url": "https://github.com/Alfabit7/NODE.js/pull/new/hw_2"
+  },
+  "license": "ISC"
 }
