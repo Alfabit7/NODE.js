@@ -1,0 +1,1 @@
+const arrPhone = require('generateArrayRandomPhoneNumber');
