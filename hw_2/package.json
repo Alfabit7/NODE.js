@@ -1,6 +1,6 @@
 {
   "name": "generate_phone",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Функция генерации Российских номеров телефонов",
   "main": "script.js",
   "scripts": {
