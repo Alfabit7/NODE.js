@@ -11,5 +11,8 @@
     "name": "Andrey",
     "url": "https://github.com/Alfabit7/NODE.js/pull/new/hw_2"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }

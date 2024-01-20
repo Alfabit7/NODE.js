@@ -1,5 +1,4 @@
-// import generateRandomNumber from './generateRandomNumber.js'
-const randomNum = require('./generateRandomNumber.js');
+const randomNum = require('./generateRandomNumber');
 function generateRandomPhoneNumber(quantity) {
     let phoneNumber = '+79';
     for (let i = 0; i < 9; i++) {
