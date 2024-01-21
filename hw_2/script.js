@@ -1,6 +1,6 @@
 const arrPhone = require('./generateArrayRandomPhoneNumber')
 
-function arrGeneratePhone() {
+function arrGeneratePhone(quantity) {
     return arrPhone.generateArrayRandomPhoneNumber(quantity);
 }
 
