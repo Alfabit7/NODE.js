@@ -1,6 +1,6 @@
 # Пакет generate_phone
 ## Функция генерации Российских номеров телефонов  
-Версия 1.0.3
+Версия 1.0.8
 #
 
 Функция запрашивает в консоли у пользователя число и принимает его в качестве парметра. Этот параметр - это количество необходимых номеров, которое должна сгенерировать и вернуть функция.
@@ -12,5 +12,5 @@
 ```javascript
 const generate_phone = require('generate_phone');
 const num = 5;
-const arrPhoneNumber = generate_phone.generateArrayRandomPhoneNumber(num);
+const arrPhoneNumber = generate_phone.arrGeneratePhone(num);
 ```
