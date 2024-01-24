@@ -1,0 +1,14 @@
+{
+  "name": "Andrey",
+  "version": "0.0.1",
+  "description": "Напишите HTTP сервер на express и реализуйте два обработчика “/” и “/about”, где:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
